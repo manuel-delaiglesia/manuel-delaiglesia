@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @manuel-delaiglesia
-- 👀 I’m interested in Artificial Intelligence, mainly NLP, Graph Theory and Virtual Graphs. Technologies: Java, React-Native, PHP, and so on...
-- 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on new stuff
+- 👀 I’m interested in software development using modern frameworks and technologies.
+- 🛠️ Technologies and languages known: React, React-Native, Vue, ExpressJS, Java, Javascript, PHP, C, C++, CSharp...
+- 💻 Latest work (with 4+ years of experience) in Javascript-related technologies, mostly in front-end development.
+- 🔎 Experience in software QA as an ISTQB certified specialist.
+- 📖 Background in research/development in Artificial Intelligence, mainly NLP, text semantics, Graph Theory and Knowledge Graphs, with some work published here and there...
+- 🌱 I’m looking to collaborate on new stuff
 - 📫 Don't hesitate to contact me to manuel[dot]iglesia[dot]campos[@]gmail[dot]com
 
 <!---
