@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manuel-delaiglesia
+- 👋 Hi, I’m Manuel de la Iglesia Campos
 - 👀 I’m interested in software development using modern frameworks and technologies.
 - 🛠️ Technologies and languages known: React, React-Native, Vue, ExpressJS, Java, Javascript, PHP, C, C++, CSharp...
 - 💻 Latest work (with 4+ years of experience) in Javascript-related technologies, mostly in front-end development.
