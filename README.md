@@ -8,7 +8,7 @@
 - 📖 Background in Artificial Intelligence research and development for 10+ years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
 
 🌱 Check my professional profiles:
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) manueldelaiglesiacampos](https://www.linkedin.com/in/manueldelaiglesiacampos)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) www.linkedin.com/in/manueldelaiglesiacampos](https://www.linkedin.com/in/manueldelaiglesiacampos)
 - [www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos)
 
 📫 Don't hesitate to contact me at manuel[dot]iglesia[dot]campos[@]gmail[dot]com
