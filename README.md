@@ -8,8 +8,7 @@
 
 🌱 Check my professional profiles:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) linkedin.com/in/manueldelaiglesiacampos
+&nbsp; linkedin.com/in/manueldelaiglesiacampos
 - researchgate.net/profile/Manuel-De-La-Iglesia-Campos
 
 📫 Don't hesitate to contact me at manuel[dot]iglesia[dot]campos[@]gmail[dot]com
