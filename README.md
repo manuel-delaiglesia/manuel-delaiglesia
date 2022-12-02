@@ -5,7 +5,7 @@
 - 🛠️ Other technologies and languages known: React / React-Native / Vue / ExpressJS / NodeJS / Java / Javascript / Typescript / PHP / C / C++ / CSharp...
 - 💻 Latest work (with 4+ years of experience) in Javascript-related technologies, mostly in front-end development.
 - 🔎 Experience in software QA as an ISTQB certified specialist.
-- 📖 Background in Artificial Intelligence research and development for 10+ years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([you can check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2/research)).
+- 📖 Background in Artificial Intelligence research and development for 10+ years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
 
 🌱 Check my professional profiles:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) manueldelaiglesiacampos](https://www.linkedin.com/in/manueldelaiglesiacampos)
