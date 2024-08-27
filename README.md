@@ -1,9 +1,11 @@
 👋 Hi, I’m Manuel de la Iglesia Campos
 
 💻 I’m interested in software development using modern frameworks and technologies.
+
 🌱 Currently working in React / Typescript / JS / Python / Odoo / Marionnette.
 
 ☕ Previous work (with 4+ years of full-time experience, 16 years in total including software development for AI research) in Javascript-related technologies, mostly front-end.
+
 🛠️ Other technologies and languages known: React / React-Native / Vue / ExpressJS / NodeJS / Java / Javascript / Typescript / PHP / C / C++ / CSharp ...
 
 🔎 Experience for 1 year full-time in software Quality Assurance as an ISTQB® certified specialist.
