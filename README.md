@@ -14,6 +14,7 @@
 
 📫 Don't hesitate to contact me at manuel[dot]iglesia[dot]campos[@]gmail[dot]com
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-delaiglesia&show_icons=true&theme=transparent)
 <!---
 manuel-delaiglesia/manuel-delaiglesia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
