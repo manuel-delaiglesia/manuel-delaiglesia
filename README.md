@@ -1,3 +1,4 @@
+![background](https://github.com/user-attachments/assets/7a0b15d4-b28a-41cf-a620-6d0fe1f411db)
 ### 👋 Hi,
 I’m Manuel de la Iglesia Campos
 
@@ -14,7 +15,7 @@ I’m Manuel de la Iglesia Campos
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
 <div style="text-align:center">...and Odoo and Marionnette, which cannot be included in this fancy list until they approve my PRs</div>
-<br><br>
+<br>
 
 🛠️ Other technologies and languages I have worked with: 
 <div align="center">
