@@ -1,4 +1,5 @@
-### 👋 Hi, I’m Manuel de la Iglesia Campos
+### 👋 Hi,
+I’m Manuel de la Iglesia Campos
 
 🌱 I’m interested in software development using modern frameworks and technologies.
 
@@ -27,9 +28,11 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
 </div>
 
-☕ Work: mostly front-end since 2017, centered in Javascript-related technologies, and also software development for AI research between 2007 and 2017, developing knowledge engineering and graphs related algorithms.
+☕ Work: mostly front-end since 2017, centered in Javascript-related technologies, and also software development for AI research between 2007 and 2017, developing knowledge engineering and graph-based algorithms.
 
 🔎 [ISTQB<sup>&#174;</sup>](https://www.istqb.org/) certified specialist with experience for 1 year in software Quality Assurance.
 
