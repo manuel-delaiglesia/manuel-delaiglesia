@@ -1,6 +1,6 @@
 ![background](https://github.com/user-attachments/assets/7a0b15d4-b28a-41cf-a620-6d0fe1f411db)
 ### 👋 Hi,
-I’m Manuel de la Iglesia Campos
+I’m Manuel de la Iglesia Campos 🧑🏻‍💻
 
 🌱 I’m interested in software development using modern frameworks and technologies.
 
@@ -42,7 +42,7 @@ I’m Manuel de la Iglesia Campos
 
 🔎 [ISTQB<sup>&#174;</sup>](https://www.istqb.org/) certified specialist with experience for 1 year in software Quality Assurance.
 
-📖 Background in Artificial Intelligence research and development for 10 years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
+📖 Background in Artificial Intelligence 🤖 research and development for 10 years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)), as university professor 👨‍🏫.
 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuel.iglesia.campos@gmail.com)
