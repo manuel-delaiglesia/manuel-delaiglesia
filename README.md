@@ -12,10 +12,7 @@
 
 📖 Background in Artificial Intelligence research and development for 10+ years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check my researchgate profile](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
 
-📫 Don't hesitate to contact me at manuel[dot]iglesia[dot]campos[@]gmail[dot]com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-delaiglesia&show_icons=true&theme=transparent)
-<!---
-manuel-delaiglesia/manuel-delaiglesia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuel.iglesia.campos@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manueldelaiglesiacampos)
+[<img src="https://img.shields.io/badge/ResearchGate-444444?style=for-the-badge&logo=researchgate&logoColor=white">](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2)
