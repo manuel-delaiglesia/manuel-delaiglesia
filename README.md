@@ -12,7 +12,9 @@ I’m Manuel de la Iglesia Campos
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>	
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>	
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-</div> ...and Odoo and Marionnette, which cannot be included in this fancy list until they approve my PRs
+</div>
+<div style="text-align:center">...and Odoo and Marionnette, which cannot be included in this fancy list until they approve my PRs</div>
+<br><br>
 
 🛠️ Other technologies and languages I have worked with: 
 <div align="center">
@@ -32,20 +34,21 @@ I’m Manuel de la Iglesia Campos
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
 </div>
+<br>
 
 ☕ Work: mostly front-end since 2017, centered in Javascript-related technologies, and also software development for AI research between 2007 and 2017, developing knowledge engineering and graph-based algorithms.
 
 🔎 [ISTQB<sup>&#174;</sup>](https://www.istqb.org/) certified specialist with experience for 1 year in software Quality Assurance.
 
-📖 Background in Artificial Intelligence research and development for 10 years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check my researchgate profile](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
+📖 Background in Artificial Intelligence research and development for 10 years: Natural Language Processing, text semantics, Graph Theory, Knowledge Graphs, ontologies, with some work published here and there... ([check them here](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2#publications)).
 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuel.iglesia.campos@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manueldelaiglesiacampos)
 [<img src="https://img.shields.io/badge/ResearchGate-444444?style=for-the-badge&logo=researchgate&logoColor=white">](https://www.researchgate.net/profile/Manuel-De-La-Iglesia-Campos-2)
 
-
 <img src="https://img.shields.io/badge/have_a-nice_day-25C2A0">
 
-_____________________________________________________________________________________________________
+---
+
 Done with help of [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons) and [Shields.io](https://shields.io/)
