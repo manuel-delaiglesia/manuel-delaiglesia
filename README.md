@@ -17,7 +17,6 @@ I’m Manuel de la Iglesia Campos 🧑🏻‍💻
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/></code>
 </div>
-<div style="text-align:center">...and Odoo and Marionnette, which cannot be included in this fancy list until they approve my PRs</div>
 <br>
 
 🛠️ Some other technologies and languages I have worked with: 
